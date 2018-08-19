@@ -394,6 +394,7 @@ nav ul li a {
 #portfolio {
   position: relative;
   padding-bottom: 50px;
+  
 }
 
 #portfolio .portfolio-list {
@@ -445,7 +446,7 @@ nav ul li a {
 
 .portfolio-thumbnail img {
   max-width: 100%;
-  border: 2px solid #b8a07e
+  border: 1px solid #b8a07e
 }
 
 
